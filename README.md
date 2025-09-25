@@ -1,2 +1,2 @@
 # physicallypossiblelevels.github.io
-A website for the geometry dash ppll.
+A website for the Geometry Dash PPll.
